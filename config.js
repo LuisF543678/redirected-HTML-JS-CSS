@@ -12,7 +12,6 @@
 
 // website lists
 const urlList = ['https://www.google.com']
-
 // open the first url and cache the window object reference
 const win = window.open(urlList[0], "_self")
 
